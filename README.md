@@ -1,2 +1,3 @@
 # PasswordGenerator
-Use this code to generate a password.
+
+This application will be able to generate a simple or complex password based on user inputs.
